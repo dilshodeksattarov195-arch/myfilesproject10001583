@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productutringify",
+        "uuid": 13710363,
+        "checksum": "yaquvp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
